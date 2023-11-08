@@ -1,0 +1,7 @@
+32 2 2 déjeuner 2 3 fruit plat_principal 
+99 2 2 Petit_déjeuner 2 3 fruit plat_principal 
+62 1 1 déjeuner 1 6 fruit NULL 
+09 1 1 déjeuner 1 3 fruit plat_principal 
+50 5 5 Petit_déjeuner 5 15 fruit plat_principal 
+01 8 8 Petit_déjeuner 8 15 fruit entree 
+00 6 6 Petit_déjeuner 6 4 fruit plat_principal 
